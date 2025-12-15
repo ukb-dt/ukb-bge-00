@@ -21,7 +21,7 @@
 
 ## [Preface](https://ukb-dt.github.io/who-07/)
 
-This document is not an argument in the usual sense. It does not try to persuade, reassure, or reconcile. It records a line of sight.
+This document is not an argument in the usual sense. It does not try to persuade, reassure, or reconcile. It records a [line of sight](https://ukb-dt.github.io/beta-00/).
 
 What follows is an attempt to think and build *after* certain [consolations](https://genius.com/Friedrich-nietzsche-an-attempt-at-self-criticism-annotated) have been withdrawn: cosmic justice, moral bookkeeping, optimism as a duty, intelligence as a performance. In their place is something older and more demanding—continuous attention to reality, correction under uncertainty, and action that does not outsource its justification to hope.
 
