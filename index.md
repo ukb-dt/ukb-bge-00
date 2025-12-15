@@ -25,7 +25,7 @@ This document is not an argument in the usual sense. It does not try to persuade
 
 What follows is an attempt to think and build *after* certain [consolations](https://genius.com/Friedrich-nietzsche-an-attempt-at-self-criticism-annotated) have been withdrawn: cosmic justice, moral bookkeeping, optimism as a duty, intelligence as a performance. In their place is something older and more demanding—continuous attention to reality, correction under uncertainty, and action that does not outsource its justification to hope.
 
-The throughline is simple and severe: systems fail when prediction substitutes for contact. Whether in theology, medicine, institutions, or AI, the pattern repeats. Faith and hope stabilize agents; they reduce load. Charity—understood not as sentiment but as enacted, costly service—is what forces the update step. It is the only thing that abides because it cannot be simulated.
+The throughline is simple and severe: systems fail when prediction substitutes for contact. Whether in theology, medicine, institutions, or AI, the pattern repeats. Faith and hope stabilize agents; they reduce load. Charity—understood not as sentiment but as enacted, costly service—is what forces the update step. It is the only thing that [abides](https://ukb-dt.github.io/tumbleweed/) because it cannot be simulated.
 
 [Ukubona](https://ukubona-llc.github.io) is the technical expression of this stance. Not surveillance, not optimization theater, not moral instruction—but [continuous state estimation](https://en.wikipedia.org/wiki/Calibration): gradients instead of verdicts, posteriors instead of labels, integration over time instead of episodic drama. A geological attitude applied to living systems.
 
