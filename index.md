@@ -56,7 +56,7 @@ Calling charity “Christianity” as a global maximum is exactly right. Faith a
 
 Charity does the opposite. It externalizes cognition. It forces contact with reality. You cannot outsource charity to belief or expectation. It costs ATP. It requires attention, logistics, timing, tradeoffs. Charity is Christianity’s way of saying: no amount of correct metaphysics substitutes for competent service.
 
-That’s why the KJV’s “abideth” matters too. Faith leaks. Hope leaks faster. Charity persists because it’s anchored in action, not prediction. Faith and hope are epistemic prosthetics for creatures who can’t run general relativity in their heads all day. Charity is what remains when the prosthetics fail.
+That’s why the KJV’s “[abideth](ukb-dt.github.io/o-o/)” matters too. Faith leaks. Hope leaks faster. Charity persists because it’s anchored in action, not prediction. Faith and hope are epistemic prosthetics for creatures who can’t run general relativity in their heads all day. Charity is what remains when the prosthetics fail.
 
 Seen this way, eschatology—the “life of the world to come”—functions as a cognitive easing mechanism. A merciful one, perhaps necessary for many. But still a local maximum. It reduces existential load by pushing resolution into the future. Charity refuses that deferral. It says the accounting happens *here*, in fragments, without final closure.
 
