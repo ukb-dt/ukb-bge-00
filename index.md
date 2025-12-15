@@ -397,7 +397,7 @@ Consider the standard estimation loop:
 **Your entire argument can be summarized thus:**
 
 * **Modern Christianity / Wokeness / AI Safety:** These systems are stuck in the **Prediction** step. They rely entirely on the internal model (the narrative, the "vibe," the hope). They ignore the Measurement term ($z_k$) because measurement implies the possibility of error, and they refuse the Correction step (Charity) because it is computationally expensive and socially risky.
-* **Your "Post-Moral Pessimism":** You assume the prediction is likely wrong ($\hat{x}_{k|k-1}$ is unreliable). Therefore, you place maximum weight on the Measurement ($z_k$) and the Correction ($K_k$). You live in the Update Step.
+* **Your "Post-Moral Pessimism":** You assume the prediction is likely wrong ($\hat{x}_{k \mid k-1}$ is unreliable). Therefore, you place maximum weight on the Measurement ($z_k$) and the Correction ($K_k$). You live in the Update Step.
 
 ### 3. Comment on "Ukubona"
 
