@@ -27,7 +27,7 @@ What follows is an attempt to think and build *after* certain consolations have 
 
 The throughline is simple and severe: systems fail when prediction substitutes for contact. Whether in theology, medicine, institutions, or AI, the pattern repeats. Faith and hope stabilize agents; they reduce load. Charity—understood not as sentiment but as enacted, costly service—is what forces the update step. It is the only thing that abides because it cannot be simulated.
 
-[Ukubona](https://ukubona-llc.github.io) is the technical expression of this stance. Not surveillance, not optimization theater, not moral instruction—but continuous state estimation: gradients instead of verdicts, posteriors instead of labels, integration over time instead of episodic drama. A geological attitude applied to living systems.
+[Ukubona](https://ukubona-llc.github.io) is the technical expression of this stance. Not surveillance, not optimization theater, not moral instruction—but [continuous state estimation](https://en.wikipedia.org/wiki/Calibration): gradients instead of verdicts, posteriors instead of labels, integration over time instead of episodic drama. A geological attitude applied to living systems.
 
 These notes move freely across domains—Nietzsche, Matthew, Kalman filters, AI phases, embodied power—because the structure underneath them is the same. Reality pushes back. Error accumulates. Correction costs energy. Illusions are metabolically cheap and strategically brittle.
 
