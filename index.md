@@ -23,7 +23,7 @@
 
 This document is not an argument in the usual sense. It does not try to persuade, reassure, or reconcile. It records a line of sight.
 
-What follows is an attempt to think and build *after* certain consolations have been withdrawn: cosmic justice, moral bookkeeping, optimism as a duty, intelligence as a performance. In their place is something older and more demanding—continuous attention to reality, correction under uncertainty, and action that does not outsource its justification to hope.
+What follows is an attempt to think and build *after* certain [consolations](https://genius.com/Friedrich-nietzsche-an-attempt-at-self-criticism-annotated) have been withdrawn: cosmic justice, moral bookkeeping, optimism as a duty, intelligence as a performance. In their place is something older and more demanding—continuous attention to reality, correction under uncertainty, and action that does not outsource its justification to hope.
 
 The throughline is simple and severe: systems fail when prediction substitutes for contact. Whether in theology, medicine, institutions, or AI, the pattern repeats. Faith and hope stabilize agents; they reduce load. Charity—understood not as sentiment but as enacted, costly service—is what forces the update step. It is the only thing that abides because it cannot be simulated.
 
