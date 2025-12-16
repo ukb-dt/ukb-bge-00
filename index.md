@@ -19,7 +19,7 @@
 
 > *Witnessing suble [arbitrage](https://ukb-dt.github.io/beta-02/) here*            
 > *Computer scientist vs. bionic philosopher*      
-> *[McGilchrist](https://ukb-dt.github.io/mcgilchrist/) as the proof*         
+> *[McGilchrist](https://ukb-dt.github.io/ukb-mcgilchrist/) as the proof*         
 > -- Ilya Zosima
 
 ## [Preface](https://ukb-dt.github.io/who-07/)
