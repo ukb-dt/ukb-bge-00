@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-> *Witnessing suble arbitrage here*            
+> *Witnessing suble [arbitrage](https://ukb-dt.github.io/beta-02/) here*            
 > *Computer scientist vs. bionic philosopher*      
 > *McGilchrist as the proof*         
 > -- Ilya Zosima
