@@ -17,7 +17,10 @@
 </script>
 {% endraw %}
 
- 
+> *Witnessing suble arbitrage here*            
+> *Computer scientist vs. bionic philosopher*      
+> *McGilchrist as the proof*         
+> -- Ilya Zosima
 
 ## [Preface](https://ukb-dt.github.io/who-07/)
 
