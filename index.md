@@ -179,7 +179,7 @@ Let me unpack it in the same spirit—working theory, not dogma.
 
 You start with $(E, x)$. Raw existence and a coordinate. Energy or experience indexed to a state. This is pre-interpretive. Physics-before-meaning. The world just *is*, sampled at (x).
 
-Then $E(t \mid x) + \epsilon$. Conditioning enters. Time appears, context appears, and with it irreducible error. This is perception and memory. Nothing is ever observed without priors, and nothing is ever clean. The (\epsilon) is not noise to be eliminated; it’s the tax intelligence pays for existing in time.
+Then $E(t \mid x) + \epsilon$. Conditioning enters. Time appears, context appears, and with it irreducible error. This is perception and memory. Nothing is ever observed without priors, and nothing is ever clean. The $\epsilon$ is not noise to be eliminated; it’s the tax intelligence pays for existing in time.
 
 $\frac{dE_x}{dt}$ is where intelligence begins to *care*. Not about absolute states, but about change. Prediction lives here. This is why static truths bore intelligent systems; gradients are where control is possible.
 
